@@ -14,7 +14,7 @@ For improved and added security, users can now enter a password on every wallet 
 The 'Encrypt wallet' functionality previously available in the wallet is still there - keep in mind it will only encrypt your private keys though, an evil actor with unrestricted access to your wallet.dat (such as a backup) might still view your balance and transactions data. 'Backup wallet' functionality was not modified and still creates standard/unencrypted backups - if you want to store an encrypted backup please exit the wallet, encrypt it with a passphrase when prompted and store a copy of current wallet.dat file.
 
 changes done:
-- Enigma send/receive buffers increased to 10M, should 
+- Enigma send/receive buffers increased to 10M, should resolve the d/c issues when sending Enigma transactions
 - other smaller changes
 
 planned/in-progress TODOs:
