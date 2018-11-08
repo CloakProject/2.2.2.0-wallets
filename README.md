@@ -34,6 +34,9 @@ planned/in-progress TODOs:
 **Mac Wallet**<br />
 [Download](https://github.com/CloakProject/2.2.2.0-wallets/blob/master/cloakcoin-osx-rEvolution-2.2.2.0.zip)
 
+**RPi Wallet**<br />
+[Download](https://github.com/CloakProject/2.2.2.0-wallets/blob/master/cloakcoin-RPi_armv7-rEvolution-2.2.2.0.zip)
+
 ## Source code
 The CloakCoin source code is on different repository. Head over to [CloakCoin](https://github.com/CloakProject/CloakCoin) repository to view the code, open issues related to code and send pull requests.
 
